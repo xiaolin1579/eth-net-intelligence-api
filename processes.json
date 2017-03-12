@@ -32,7 +32,7 @@
       "NODE_ENV"        : "production",
       "RPC_HOST"        : "localhost",
       "RPC_PORT"        : "9595",
-      "LISTENING_PORT"  : "30303",
+      "LISTENING_PORT"  : "19595",
       "INSTANCE_NAME"   : "",
       "CONTACT_DETAILS" : "",
       "WS_SERVER"       : "wss://rpc.ethstats.net",
